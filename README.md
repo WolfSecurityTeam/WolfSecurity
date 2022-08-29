@@ -8,7 +8,7 @@
 <br>
 <br>
   <h3> <center>Click the image to join</h3>
-<p align="center">  <a href="https://discord.gg/wolfsec"><img width="160" height="80" src="https://media.discordapp.net/attachments/1013355527725649951/1013652039827468358/discord.jpg"></a></p>
+<p align="center">  <a href="https://discord.gg/wolfsec"><img width="160" height="80" src=["https://media.discordapp.net/attachments/1013355527725649951/1013652039827468358/discord.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.allkpop.com%2Fupload%2F2021%2F01%2Fcontent%2F262046%2F1611711962-discord-button.png&imgrefurl=https%3A%2F%2Fwww.allkpop.com%2Farticle%2F2021%2F01%2Fcome-join-us-on-our-official-allkpop-discord-server&tbnid=hHk8cI7O9x7A2M&vet=12ahUKEwiB_6HPjev5AhUusXIEHdHoDtIQMygJegUIARDXAQ..i&docid=ZanhxxbG2l9J9M&w=681&h=219&q=join%20discord%20server&ved=2ahUKEwiB_6HPjev5AhUusXIEHdHoDtIQMygJegUIARDXAQ)"></a></p>
 
 
 # Using 
