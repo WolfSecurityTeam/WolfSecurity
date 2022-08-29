@@ -27,12 +27,14 @@ ALL REFUNDS ARE FINAL ANY CHARGE BACKS MADE WILL CAUSE A PERMANANT BAN!
 
 # Credits
 
-<a href="https://www.instagram.com/ackbeta/">AckBeta</a>
+<a href="https://www.instagram.com/ackbeta/">AckBeta (Founder)</a>
 <br />
-<a href="https://www.instagram.com/akuma.iot/">Akuma</a>
+<a href="https://www.instagram.com/akuma.iot/">Akuma (Founder)</a>
 <br />
-<a href="https://www.instagram.com/fuck_qbot/">Riley</a>
+<a href="https://www.instagram.com/fuck_qbot/">Riley (Founder)</a>
 <br />
-<a href="https://www.instagram.com/kerasabi/">Kera</a>
+<a href="https://www.instagram.com/sos.slender/">Slender (Co-Founder)</a>
+<br />
+<a href="https://www.instagram.com/kerasabi/">Kera (Admin)</a>
 <br /> 
-<a href="https://www.instagram.com/xerxessecurity/">Zerx</a>
+<a href="https://www.instagram.com/xerxessecurity/">Zerx (Admin)</a>
