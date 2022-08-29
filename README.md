@@ -23,6 +23,6 @@ YOU ARE NOT ALLOWED TO USE THIS FILES FOR CAUSING DAMAGE TO INTERNET CONNECTIONS
 
 # Credits
 
-[AckBeta][https://www.instagram.com/ackbeta/]
+< a href="https://www.instagram.com/ackbeta/"><AckBeta></a>
 <br />
 (Akuma)[https://www.instagram.com/akuma.iot/]
