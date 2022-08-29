@@ -23,6 +23,13 @@ YOU ARE NOT ALLOWED TO USE THIS FILES FOR CAUSING DAMAGE TO INTERNET CONNECTIONS
 
 # Credits
 
-<a href="https://www.instagram.com/ackbeta/">AckBeta!</a>
+<a href="https://www.instagram.com/ackbeta/">AckBeta</a>
 <br />
-(Akuma)[https://www.instagram.com/akuma.iot/]
+<a href="https://www.instagram.com/aukma.iot/">Akuma</a>
+<br />
+<a href="https://www.instagram.com/fuck_qbot/">Riley</a>
+<br />
+<a href="https://www.instagram.com/kerasabi/">Conquest</a>
+<br /> 
+<a href="https://www.instagram.com/xerxessecurity/">Zerx</a>
+<a href="https://www.instagram.com/fuck_qbot/">Riley</a>
