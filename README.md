@@ -44,12 +44,10 @@ IF OUR TEAM MEMBERS REVIEW THE LOGS & SEE THAT YOU'VE HAD NO PROBLEM AND HAVE US
 
 <a href="https://www.instagram.com/ackbeta/">AckBeta</a>
 <br />
-<a href="https://www.instagram.com/akumaa.iot/">Akuma</a>
+<a href="https://www.instagram.com/akuma.iot/">Akuma</a>
 <br />
 <a href="https://www.instagram.com/fuck_qbot/">Riley</a>
 <br />
 <a href="https://www.instagram.com/kerasabi/">Kera</a>
 <br /> 
 <a href="https://www.instagram.com/xerxessecurity/">Zerx</a>
-<br />
-<a href="https://www.instagram.com/fuck_qbot/">Riley</a>
