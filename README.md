@@ -27,13 +27,13 @@ ALL PAYMENTS ARE FINAL ANY CHARGE BACKS MADE WILL CAUSE A PERMANANT BAN!
 
 # Credits
 
-<a href="https://www.instagram.com/ackbeta/">AckBeta - Backend Dev/API Manager (Founder)</a>
+<a href="https://www.instagram.com/ackbeta/">AckBeta - Backend Dev/API Manager - (Founder)</a>
 <br />
-<a href="https://www.instagram.com/akuma.iot/">Akuma - Backend Dev (Founder)</a>
+<a href="https://www.instagram.com/akuma.iot/">Akuma - Backend Dev - (Founder)</a>
 <br />
-<a href="https://www.instagram.com/fuck_qbot/">Riley - Frontend/Backend Dev(Founder)</a>
+<a href="https://www.instagram.com/fuck_qbot/">Riley - Frontend/Backend Dev - (Founder)</a>
 <br />
-<a href="https://www.instagram.com/sos.slender/">Slender - Promoter/Dev (Co-Founder)</a>
+<a href="https://www.instagram.com/sos.slender/">Slender - Promoter/Dev - (Co-Founder)</a>
 <br />
 <a href="https://www.instagram.com/kerasabi/">Kera - Dev (Admin)</a>
 <br /> 
