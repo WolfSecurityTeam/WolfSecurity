@@ -22,7 +22,7 @@
 
 <strong>BEFORE USE READ OUR TERMS AT <a href="https://github.com/WolfSecurityTeam/WolfSecurity/blob/main/ToS.md">ToS</a>.</strong>
 ```
-ALL REFUNDS ARE FINAL ANY CHARGE BACKS MADE WILL CAUSE A PERMANANT BAN!
+ALL PAYMENTS ARE FINAL ANY CHARGE BACKS MADE WILL CAUSE A PERMANANT BAN!
 ```
 
 # Credits
