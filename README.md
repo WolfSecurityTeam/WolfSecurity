@@ -2,7 +2,13 @@
 
 - EDUCATIONAL PURPOSES ONLY - 
 
-<center> WolfSecurityTeam Power Proofs </center>
+<h1 align="center">
+  <br>
+  <a href="https://r00ts3c.github.io/"><img src="https://i.imgur.com/5ty5YPN.gif" alt="ROOTSEC ARCHIVE" width="200"></a>
+  <br>
+  RootSec Archive
+  <br>
+</h1>
 
 ![image](https://user-images.githubusercontent.com/112363866/187115080-b68a4538-90ac-446a-8205-b986d0987ef9.png)
 <br>
@@ -34,7 +40,7 @@ YOU ARE NOT ALLOWED TO USE THIS FILES FOR CAUSING DAMAGE TO INTERNET CONNECTIONS
 <br />
 <a href="https://www.instagram.com/fuck_qbot/">Riley</a>
 <br />
-<a href="https://www.instagram.com/kerasabi/">Conquest</a>
+<a href="https://www.instagram.com/kerasabi/">Kera</a>
 <br /> 
 <a href="https://www.instagram.com/xerxessecurity/">Zerx</a>
 <a href="https://www.instagram.com/fuck_qbot/">Riley</a>
