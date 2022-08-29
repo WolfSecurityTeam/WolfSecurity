@@ -2,7 +2,7 @@
 
 - EDUCATIONAL PURPOSES ONLY - 
 
-<center> WolfSecurityTeam Power Proofs
+<center> WolfSecurityTeam Power Proofs </center>
 
 ![image](https://user-images.githubusercontent.com/112363866/187115080-b68a4538-90ac-446a-8205-b986d0987ef9.png)
 <br>
