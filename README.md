@@ -2,12 +2,12 @@
 
 - EDUCATIONAL PURPOSES ONLY - 
 
-WolfSecurityTeam Power Proofs
+<center> WolfSecurityTeam Power Proofs
 
 ![image](https://user-images.githubusercontent.com/112363866/187115080-b68a4538-90ac-446a-8205-b986d0987ef9.png)
 <br>
 <br>
-<p align="center">  <a href="https://discord.gg/wolfsec"><img width="160" height="50" src="https://media.discordapp.net/attachments/1013355527725649951/1013652039827468358/discord.jpg)g"></a></p>
+<p align="center">  <a href="https://discord.gg/wolfsec"><img width="160" height="50" src="https://media.discordapp.net/attachments/1013355527725649951/1013652039827468358/discord.jpg)"></a></p>
 
 
 # Using 
