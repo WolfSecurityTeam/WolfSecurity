@@ -3,8 +3,11 @@
 - EDUCATIONAL PURPOSES ONLY - 
 
 WolfSecurityTeam Power Proofs
-https://discord.gg/wolfsec
+
 ![image](https://user-images.githubusercontent.com/112363866/187115080-b68a4538-90ac-446a-8205-b986d0987ef9.png)
+<br>
+<br>
+<p> <center> <img src="https://imgur.com/a/KdZZQPR"><a href="https://discord.gg/wolfsec"></p>
 
 
 # Using 
