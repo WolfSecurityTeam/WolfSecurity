@@ -9,7 +9,7 @@
 <br>
   
 <p align="center">  <a href="https://discord.gg/wolfsec"><img width="250" height="100" src="https://media.discordapp.net/attachments/1013355527725649951/1013656569738711060/download.png"></a></p>
-
+<p align="center">  <a href="https://t.me/+HNy4QaCUDxZhNTBh"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
 
 # Using 
 
